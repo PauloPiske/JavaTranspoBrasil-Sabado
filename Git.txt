@@ -1,0 +1,107 @@
+Nome das classes sempre primeira letra maiúscula.
+Todo código criado deve estar dentro de uma classe
+
+String = um vetor
+método "main" é método principal
+
+
+Renomear alt+shift+r
+
+
+
+variaveis podem ser primitivas ou objetos
+
+Primitives types - always start with short words
+
+- Inteiros
+
+*byte - (-128 a 127)
+*short - (-32768 a 32767)
+*char - caracter 'a' ( 0 a 65535~)
+*int - (-2147483648 a 2147~) valor padrão
+*long
+
+- Real
+
+*float
+*double - valor padrão
+
+- Lógico
+*boolean - "True or false"
+
+- Objects types - always start with big words
+
+- Tudo que não é primitivo.
+Explo; clase String (representa texto)
+
+Objetos armazena a memória no HEAP.
+
+
+Definir uma variavel
+Tipo + nome
+
+Operadores matemáticos
++
+-
+*
+/
+%
+++
+--
+Operadores compostos
++=
+-=
+*=
+/=
+%=
+
+
+exemplo:
+
+int a = 10
+
+a += 2
+a = a + 2
+
+
+java como programaar
+
+
+
+GIT maquina local
+comando git init
+
+comando remoto
+git remote add nome <url>
+
+Analisar as informações
+comando git add(nome) ou "." (para todos os arquivos)
+
+Comando git status - dados dos arquivos
+
+Comando para gravar as informações no histórico
+git commit -m "mensagem relacionada as alterações"
+
+Comando para enviar a informação para o remote
+comando git push nome do repositório e o brands(divisões)Padrão master/dev.
+
+Comando para buscar as informações de alterações do remoto
+comando git pull origin e o brand(divisões) padrão master/dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
